@@ -8,10 +8,7 @@ This project turns a standard RC car chassis into a smart, Bluetooth-controlled 
 
 ## Photos
 
-<!-- Add 2-4 photos of the car here, e.g.: -->
-<!-- ![Car front view](./assets/car-front.jpg) -->
-<!-- ![Servo-mounted ultrasonic sensor](./assets/sensor-mount.jpg) -->
-<!-- ![Full hardware wiring](./assets/wiring.jpg) -->
+![car](images/car.jepg)
 
 ## Features
 
