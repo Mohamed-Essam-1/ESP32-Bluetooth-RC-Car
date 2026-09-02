@@ -8,7 +8,7 @@ This project turns a standard RC car chassis into a smart, Bluetooth-controlled 
 
 ## Photos
 
-![car](images/car.jepg)
+![car](images/car.jpeg)
 
 ## Features
 
