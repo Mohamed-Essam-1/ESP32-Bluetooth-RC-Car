@@ -58,4 +58,4 @@ A few real bugs were caught and fixed during development:
 Built as part of our training at EnGate Academy.
 
 ## Demo
-🎥 See it driving and auto-stopping in action: [demo video link]
+🎥 See it driving and auto-stopping in action: [[demo video link]](https://drive.google.com/file/d/1EoLYZNWGEeE1WPsJ2xUievyFH06bK68c/view?usp=drivesdk)
